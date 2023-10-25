@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2zerone&&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2zerone&hide_progress=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2zerone&&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2zerone&hide_progress=true&theme=tokyonight)
 📚Tech Stack📚
 📕 Language
 <!--
